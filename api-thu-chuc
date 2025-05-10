@@ -1,6 +1,6 @@
 {
   "api-datn": {
-    "isActive": false,
+    "isActive": true,
     "user": "sysadmin",
     "password": "$2a$12$zVvv2emY1VsXwUfKPMtJ5ux.6X1QBdLs6fA5Ga2F/pV3DUd38/t06",
     "message": "username: sysadmin - password: thuchuc"
